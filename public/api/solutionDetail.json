@@ -1,0 +1,34 @@
+{
+    "flag": true,
+    "code": 200,
+    "message": "题解查询成功",
+    "data": {
+        "solutionId": 1,
+        "userId": 1,
+        "username": "1",
+        "image": "https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+        "problemId": 1,
+        "solutionText": "迭代\r\n假设链表为 1 \\rightarrow 2 \\rightarrow 3 \\rightarrow \\varnothing1→2→3→∅，我们想要把它改成 \\varnothing \\leftarrow 1 \\leftarrow 2 \\leftarrow 3∅←1←2←3。\r\n\r\n在遍历链表时，将当前节点的 \\textit{next}next 指针改为指向前一个节点。由于节点没有引用其前一个节点，因此必须事先存储其前一个节点。在更改引用之前，还需要存储后一个节点。最后返回新的头引用。\r\n",
+        "solutionDatetime": "2021-02-18T21:13:59.000+00:00",
+        "visitedNumber": 3,
+        "isOfficial": 0,
+        "solutionLikeNumber": 1,
+        "solutionCommentNumber": 1,
+        "solutionName": "官方题解",
+        "labelList": [
+            {
+                "labelId": 1,
+                "labelName": "数组"
+            },
+            {
+                "labelId": 2,
+                "labelName": "链表"
+            },
+            {
+                "labelId": 3,
+                "labelName": "树"
+            }
+        ],
+        "labelIds": null
+    }
+}

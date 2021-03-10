@@ -1,0 +1,41 @@
+#pageBox{
+    margin: 30px 0;
+}
+
+#page{
+    width: auto;
+    height: 24px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+#normal{
+    margin: 0 5px 0 5px;
+    padding: 0 7px;
+    background-color:transparent;
+    outline:none;
+    border: 1px solid #d4d4d4;
+    color: #595959;
+    border-radius: 4px;
+}
+
+#hidden{
+    margin: 0 5px 0 5px;
+    padding: 0 7px;
+    background-color:transparent;
+    border-style:none;
+    outline:none;
+    position: relative;
+    top: -4px;
+}
+
+#current{
+    color: #ffffff;
+    background-color: #2db55d;
+    border: 1px solid #51955A;
+    outline:none;
+    margin: 0 5px 0 5px;
+    padding: 0 7px;
+    border-radius: 4px;
+}

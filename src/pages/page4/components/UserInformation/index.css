@@ -1,0 +1,24 @@
+#userInformation{
+    height: 30px;
+    margin: 0 0 10px;
+}
+
+#right{
+    float: right;
+    color: #bfbfbf;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+#avatar{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+#uaerName{
+    height: 20px;
+    position: relative;
+    top: -6px;
+    margin-left: 8px;
+}

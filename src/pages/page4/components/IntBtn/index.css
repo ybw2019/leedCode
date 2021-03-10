@@ -1,0 +1,41 @@
+#black{
+    margin: 0 8px;
+    background-color:transparent;
+    border-style:none;
+    outline:none;
+}
+
+#black svg:hover{
+    fill:currentColor;
+    color: #5bb166;
+}
+
+#grey{
+    padding: 0 7px;
+    background-color:transparent;
+    border-style:none;
+    outline:none;
+    color: #919191;
+}
+
+#grey svg{
+    fill:currentColor;
+    color: #919191;
+    margin: 0 3px -2px -1px;
+}
+
+#grey:hover{
+    color: #d1d1d1;
+}
+
+#grey svg:hover{
+    color: #d1d1d1;
+}
+
+#grey span{
+    font-size: 12px;
+}
+
+#none{
+    display: none;
+}

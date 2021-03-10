@@ -1,0 +1,46 @@
+#head{
+    height: 42px;
+    padding: 10px 20px 0 20px;
+}
+
+#totalNum{
+    font-size: 20px;
+    color: #595959;
+}
+
+#total{
+    font-size: 13px;
+    color: #595959;
+}
+
+#svg_1{
+    height: 14px;
+    width: 14px;
+    margin: 0 0 -2px 4px;
+    fill:currentColor;
+    color: #595959;
+}
+
+#changeSort{
+    float: right;
+    color: #595959;
+    background-color:transparent;
+    border-style:none;
+    outline:none;
+}
+
+#svg_2{
+    height: 14px;
+    width: 14px;
+    margin: 0 0 -2px 2px;
+    fill:currentColor;
+    color: #595959;
+}
+
+#changeSort:hover{
+    color: #5BB166;
+}
+
+#svg_2:hover{
+    color: #5BB166;
+}

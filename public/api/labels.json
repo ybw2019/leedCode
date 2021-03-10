@@ -1,0 +1,59 @@
+{
+    "flag": true,
+    "code": 200,
+    "message": "标签查询成功",
+    "data": [
+        {
+            "labelId": 1,
+            "labelName": "数组"
+        },
+        {
+            "labelId": 2,
+            "labelName": "链表"
+        },
+        {
+            "labelId": 3,
+            "labelName": "树"
+        },
+        {
+            "labelId": 4,
+            "labelName": "树2"
+        },
+        {
+            "labelId": 5,
+            "labelName": "树3"
+        },
+        {
+            "labelId": 6,
+            "labelName": "树4"
+        },
+        {
+            "labelId": 7,
+            "labelName": "树5"
+        },
+        {
+            "labelId": 8,
+            "labelName": "树6"
+        },
+        {
+            "labelId": 9,
+            "labelName": "树7"
+        },
+        {
+            "labelId": 10,
+            "labelName": "树8"
+        },
+        {
+            "labelId": 11,
+            "labelName": "树9"
+        },
+        {
+            "labelId": 12,
+            "labelName": "树10"
+        },
+        {
+            "labelId": 12,
+            "labelName": "树10"
+        }
+    ]
+}
